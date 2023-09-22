@@ -1,7 +1,7 @@
 # ---------------------------------------------------------------------------------------------
 # File: housekeeping.R
-# By: YOUR NAME HERE
-# Date: Today's Date
+# By: Tyler Castriotta
+# Date: 9/21/2023
 # Description: This file installs and loads packages. It also defines the file paths. Run it 
 # before running any other files. In fact, include it all files you run.
 # ---------------------------------------------------------------------------------------------
@@ -13,7 +13,7 @@
 library(tidyverse)
 library(ggplot2)
 
-my_project <- '/project/path/'
-data <- paste0(my_project, 'data_folder/')
-codebook <- paste0(my_project, 'codebook_folder/')
-code <- paste0(my_project, 'code_folder/')
+my_project <- '/Documents/Github/PS1'
+data <- paste0(my_project, 'PS1_data/')
+codebook <- paste0(my_project, 'PS1_codebook/')
+code <- paste0(my_project, 'PS1_code/')
