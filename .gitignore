@@ -12,6 +12,12 @@
 *.cb2
 .*.lb
 
+#CSV, Dta, *.Rdata
+
+*.csv
+*.dta
+*.Rdata
+
 ## Intermediate documents:
 *.dvi
 *.xdv
